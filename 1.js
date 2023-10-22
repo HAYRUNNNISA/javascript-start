@@ -1,1 +1,1 @@
-window.alert(3+5)
+window.alert(z);
